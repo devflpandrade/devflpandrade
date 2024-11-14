@@ -8,5 +8,5 @@ Oi, eu sou o Felipe! 🐱‍👤
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Javascript, Node, React, Typescript</strong>
+  🦄 Linguagens: <strong>Python, Javascript e Typescript</strong>
 </p>
